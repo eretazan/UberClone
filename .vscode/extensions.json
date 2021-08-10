@@ -38,6 +38,17 @@
         "vadzim-vysotski.xamarin-debug",
         "njzy8856.auto-git",
         "hnw.vscode-auto-open-markdown-preview",
-        "github.vscode-pull-request-github"
+        "github.vscode-pull-request-github",
+        "ms-vscode.vscode-typescript-next",
+        "github.codespaces",
+        "github.remotehub-insiders",
+        "github.remotehub",
+        "msjsdiag.debugger-for-chrome",
+        "zainchen.json",
+        "tabnine.tabnine-vscode",
+        "kiteco.kite",
+        "cyphersignal.external-app-debug",
+        "fabiospampinato.vscode-debug-launcher",
+        "dennismaxjung.vscode-dotnet-auto-attach"
     ]
 }

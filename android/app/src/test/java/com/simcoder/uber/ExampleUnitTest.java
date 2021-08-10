@@ -1,3 +1,5 @@
+auto-git.autoCommit
+
 package com.simcoder.uber;
 
 import org.junit.Test;
