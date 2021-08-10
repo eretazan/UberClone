@@ -1,0 +1,7 @@
+{
+    "vscode-corda.isCordaProject": false,
+    "boot-java.change-detection.on": true,
+    "boot-java.live-information.automatic-tracking.on": true,
+    "boot-java.scan-java-test-sources.on": true,
+    "boot-java.support-spring-xml-config.on": true
+}
