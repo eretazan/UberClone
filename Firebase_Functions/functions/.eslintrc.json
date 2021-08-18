@@ -9,22 +9,22 @@
   "extends": "eslint:recommended",
   "rules": {
     // Removed rule "disallow the use of console" from recommended eslint rules
-    "no-console": "off",
+    "no-console": "on",
 
     // Removed rule "disallow multiple spaces in regular expressions" from recommended eslint rules
-    "no-regex-spaces": "off",
+    "no-regex-spaces": "on",
 
     // Removed rule "disallow the use of debugger" from recommended eslint rules
-    "no-debugger": "off",
+    "no-debugger": "on",
 
     // Removed rule "disallow unused variables" from recommended eslint rules
-    "no-unused-vars": "off",
+    "no-unused-vars": "on",
 
     // Removed rule "disallow mixed spaces and tabs for indentation" from recommended eslint rules
-    "no-mixed-spaces-and-tabs": "off",
+    "no-mixed-spaces-and-tabs": "on",
 
     // Removed rule "disallow the use of undeclared variables unless mentioned in /*global */ comments" from recommended eslint rules
-    "no-undef": "off",
+    "no-undef": "on",
 
     // Warn against template literal placeholder syntax in regular strings
     "no-template-curly-in-string": 1,
