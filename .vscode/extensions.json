@@ -87,6 +87,8 @@
         "wscats.delete-node-modules",
         "ms-iot.vscode-ros",
         "geequlim.godot-tools",
-        "tock.vscode-css-custom-properties"
+        "tock.vscode-css-custom-properties",
+        "redhat.fabric8-analytics",
+        "ms-vscode-remote.remote-containers"
     ]
 }
