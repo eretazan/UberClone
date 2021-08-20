@@ -54,7 +54,6 @@
         "vscjava.vscode-spring-initializr",
         "zainchen.json",
         "esskar.vscode-flutter-i18n-json",
-        "msjsdiag.cordova-tools",
         "christian-kohler.path-intellisense",
         "swellaby.node-pack",
         "swellaby.common-pack",
@@ -89,6 +88,7 @@
         "geequlim.godot-tools",
         "tock.vscode-css-custom-properties",
         "redhat.fabric8-analytics",
-        "ms-vscode-remote.remote-containers"
+        "ms-vscode-remote.remote-containers",
+        "msjsdiag.cordova-tools"
     ]
 }
