@@ -35,7 +35,9 @@
 		"ms-python.python",
 		"ms-python.vscode-pylance",
 		"robocorp.robocorp-code",
-		"devsense.phptools-vscode"
+		"devsense.phptools-vscode",
+		"googlecloudtools.cloudcode",
+		"kiteco.kite"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

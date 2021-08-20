@@ -53,5 +53,15 @@
     ],
     "yaml.schemas": {
         "https://raw.githubusercontent.com/doanthuanthanh88/testapi6/main/schema.json": "*.yaml"
-    }
+    },
+    "cloudcode.updateChannel": "Default",
+    "cloudcode.verboseLogging": true,
+    "cloudcode.yaml.format.enable": true,
+    "cloudcode.yaml.format.singleQuote": true,
+    "php.version": "php.executablePath",
+    "kite.enableOptionalCompletionsTriggers": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "kite.loggingLevel": "debug",
+    "kite.developerMode": true,
+    "kite.codefinder.enableLineDecoration": true
 }
